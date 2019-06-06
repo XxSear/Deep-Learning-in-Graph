@@ -54,7 +54,7 @@
   * 现有模型的分类
    
 * 推荐论文
-  * 综述
+  * [综述](#综述)
   * 表示学习
   * 图神经网络
     * 基于谱的
@@ -65,4 +65,22 @@
     * 边相关
     * 大规模图
     * 强化学习相关
+  
+  
 
+## 推荐论文
+### 综述
+1. **A Comprehensive Survey on Graph Neural Networks.**
+*Wu, Zonghan and Pan, Shirui and Chen, Fengwen and Long, Guodong and Zhang, Chengqi and Yu, Philip S.* 2019. [paper](https://arxiv.org/pdf/1901.00596)
+
+1. **A Survey on Network Embedding.**
+*Cui, Peng and Wang, Xiao and Pei, Jian and Zhu, Wenwu.* IEEE 2018. [paper](http://pengcui.thumedialab.com/papers/NetworkEmbeddingSurvey.pdf)
+
+1. **Deep Learning on Graphs: A Survey.**
+*Ziwei Zhang, Peng Cui, Wenwu Zhu.* 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf)
+
+1. **Graph Neural Networks: A Review of Methods and Applications.**
+*Zhou, Jie and Cui, Ganqu and Zhang, Zhengyan and Yang, Cheng and Liu, Zhiyuan and Sun, Maosong.* 2018. [paper](https://arxiv.org/pdf/1812.08434)
+
+1. ** **
+* * [paper]()
