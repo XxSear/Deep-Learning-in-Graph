@@ -70,9 +70,8 @@
 
 ## 推荐论文
 ### 综述
-1. <details>
-  <summary>A Comprehensive Survey on Graph Neural Networks.</summary>
- [paper](https://arxiv.org/pdf/1901.00596)
+<details>
+  <summary>A Comprehensive Survey on Graph Neural Networks. [paper](https://arxiv.org/pdf/1901.00596)</summary>
   @article{wu2019comprehensive,
     title={A comprehensive survey on graph neural networks},
     author={Wu, Zonghan and Pan, Shirui and Chen, Fengwen and Long, Guodong and Zhang, Chengqi and Yu, Philip S},
